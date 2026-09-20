@@ -15,7 +15,7 @@ jobs:
 
       - name: Extract Raviqen
         run: |
-          unzip -o RaviqenPhoneBuild.zip
+          unzip -o RaviqenV2_OfficialIcon-3.zip
           cd RaviqenNative
           echo "Raviqen project extracted"
 
