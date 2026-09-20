@@ -40,3 +40,4 @@ jobs:
           name: Raviqen-APK
           path: RaviqenNative/app/build/outputs/apk/debug/app-debug.apk
           if-no-files-found: error
+# Raviqen rebuild
